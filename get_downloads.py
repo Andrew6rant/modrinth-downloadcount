@@ -11,4 +11,4 @@ def get_downloads(user_id):
     print(total_downloads)
 
 if __name__ == '__main__':
-    get_downloads('IV9h2DkJ')
+    get_downloads()
